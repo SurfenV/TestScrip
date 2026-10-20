@@ -2,7 +2,7 @@
 
 Apple WLOC 网络定位修改（gs-loc）的 Stash 覆写，自托管副本。
 
-原作者 Yu9191 的仓库已下线，本仓库内容取自 fork [golfiishwb/wloc](https://github.com/golfiishwb/wloc)，仅把覆写里的链接改为指向这里。
+原作者 Yu9191 的仓库已下线，本仓库内容取自原仓库的镜像 [tigerowo/Yu9191-wloc](https://github.com/tigerowo/Yu9191-wloc)，仅把覆写里的链接改为指向这里。
 
 ## Stash 覆写链接
 
